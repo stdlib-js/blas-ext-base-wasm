@@ -38,6 +38,7 @@
   "dependencies": {
     "@stdlib/blas-ext-base-dapxsum": "^0.2.2",
     "@stdlib/blas-ext-base-dapxsumkbn": "^0.2.2",
+    "@stdlib/blas-ext-base-dapxsumors": "^0.2.2",
     "@stdlib/blas-ext-base-dapxsumpw": "^0.2.2",
     "@stdlib/blas-ext-base-dnansumpw": "^0.2.2",
     "@stdlib/utils-define-read-only-property": "^0.2.2"

@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-13)
+## Unreleased (2025-03-15)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`9c0f393`](https://github.com/stdlib-js/stdlib/commit/9c0f393248f4a8276991ea447dea41402f58cefc) - add `dapxsumors` to namespace
 -   [`87abb74`](https://github.com/stdlib-js/stdlib/commit/87abb743fe577742c81ce1be6b5b8477da33b5f2) - update namespace TypeScript declarations [(#6008)](https://github.com/stdlib-js/stdlib/pull/6008)
 -   [`5738d4d`](https://github.com/stdlib-js/stdlib/commit/5738d4d9acc9b1d68f33968e76c4ede936f2216f) - add `dapxsum`, `dapxsumpw`, and `dnansumpw` to namespace
 -   [`9789396`](https://github.com/stdlib-js/stdlib/commit/9789396bd5111e963f4662c57c6b4159d4166946) - update namespace TypeScript declarations [(#5364)](https://github.com/stdlib-js/stdlib/pull/5364)
@@ -91,6 +92,40 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="blas-ext-base-wasm-dapxsumors-unreleased">
+
+#### [@stdlib/blas/ext/base/wasm/dapxsumors](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/wasm/dapxsumors)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b2a770a`](https://github.com/stdlib-js/stdlib/commit/b2a770ac79d4b276e73184802ee0cf31956bf52c) - add `blas/ext/base/wasm/dapxsumors` [(#5644)](https://github.com/stdlib-js/stdlib/pull/5644)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#5507](https://github.com/stdlib-js/stdlib/issues/5507)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="blas-ext-base-wasm-dapxsumpw-unreleased">
 
 #### [@stdlib/blas/ext/base/wasm/dapxsumpw](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/wasm/dapxsumpw)
@@ -155,9 +190,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#5505](https://github.com/stdlib-js/stdlib/issues/5505), [#5508](https://github.com/stdlib-js/stdlib/issues/5508)
+[#5505](https://github.com/stdlib-js/stdlib/issues/5505), [#5507](https://github.com/stdlib-js/stdlib/issues/5507), [#5508](https://github.com/stdlib-js/stdlib/issues/5508)
 
 </section>
 
@@ -184,6 +219,8 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`9c0f393`](https://github.com/stdlib-js/stdlib/commit/9c0f393248f4a8276991ea447dea41402f58cefc) - **feat:** add `dapxsumors` to namespace _(by Athan Reines)_
+-   [`b2a770a`](https://github.com/stdlib-js/stdlib/commit/b2a770ac79d4b276e73184802ee0cf31956bf52c) - **feat:** add `blas/ext/base/wasm/dapxsumors` [(#5644)](https://github.com/stdlib-js/stdlib/pull/5644) _(by Aayush Khanna, Athan Reines)_
 -   [`87abb74`](https://github.com/stdlib-js/stdlib/commit/87abb743fe577742c81ce1be6b5b8477da33b5f2) - **feat:** update namespace TypeScript declarations [(#6008)](https://github.com/stdlib-js/stdlib/pull/6008) _(by stdlib-bot)_
 -   [`5738d4d`](https://github.com/stdlib-js/stdlib/commit/5738d4d9acc9b1d68f33968e76c4ede936f2216f) - **feat:** add `dapxsum`, `dapxsumpw`, and `dnansumpw` to namespace _(by Athan Reines)_
 -   [`654827d`](https://github.com/stdlib-js/stdlib/commit/654827df5358f2c70fde0259fbbcbfb607076119) - **feat:** add `blas/ext/base/wasm/dapxsum` [(#5634)](https://github.com/stdlib-js/stdlib/pull/5634) _(by Vivek Maurya, Athan Reines, stdlib-bot)_
