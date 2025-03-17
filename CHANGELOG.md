@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-15)
+## Unreleased (2025-03-17)
 
 <section class="packages">
 
@@ -161,6 +161,40 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="blas-ext-base-wasm-dasumpw-unreleased">
+
+#### [@stdlib/blas/ext/base/wasm/dasumpw](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/wasm/dasumpw)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d2aa857`](https://github.com/stdlib-js/stdlib/commit/d2aa857a823eed13a409c724c4d19fa876ad2742) - add `blas/ext/base/wasm/dasumpw` [(#5549)](https://github.com/stdlib-js/stdlib/pull/5549)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#5509](https://github.com/stdlib-js/stdlib/issues/5509)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="blas-ext-base-wasm-dnansumpw-unreleased">
 
 #### [@stdlib/blas/ext/base/wasm/dnansumpw](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/blas/ext/base/wasm/dnansumpw)
@@ -191,9 +225,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 3 issues were closed in this release:
+A total of 4 issues were closed in this release:
 
-[#5505](https://github.com/stdlib-js/stdlib/issues/5505), [#5507](https://github.com/stdlib-js/stdlib/issues/5507), [#5508](https://github.com/stdlib-js/stdlib/issues/5508)
+[#5505](https://github.com/stdlib-js/stdlib/issues/5505), [#5507](https://github.com/stdlib-js/stdlib/issues/5507), [#5508](https://github.com/stdlib-js/stdlib/issues/5508), [#5509](https://github.com/stdlib-js/stdlib/issues/5509)
 
 </section>
 
@@ -220,6 +254,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`d2aa857`](https://github.com/stdlib-js/stdlib/commit/d2aa857a823eed13a409c724c4d19fa876ad2742) - **feat:** add `blas/ext/base/wasm/dasumpw` [(#5549)](https://github.com/stdlib-js/stdlib/pull/5549) _(by Aayush Khanna, Athan Reines, stdlib-bot)_
 -   [`3da41b7`](https://github.com/stdlib-js/stdlib/commit/3da41b7ccb754f5ffa7f4f9fc61799d570871a19) - **feat:** update namespace TypeScript declarations [(#6058)](https://github.com/stdlib-js/stdlib/pull/6058) _(by stdlib-bot)_
 -   [`9c0f393`](https://github.com/stdlib-js/stdlib/commit/9c0f393248f4a8276991ea447dea41402f58cefc) - **feat:** add `dapxsumors` to namespace _(by Athan Reines)_
 -   [`b2a770a`](https://github.com/stdlib-js/stdlib/commit/b2a770ac79d4b276e73184802ee0cf31956bf52c) - **feat:** add `blas/ext/base/wasm/dapxsumors` [(#5644)](https://github.com/stdlib-js/stdlib/pull/5644) _(by Aayush Khanna, Athan Reines)_
