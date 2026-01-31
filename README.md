@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-wasm@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-wasm@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { dapx, dapxsum, dapxsumkbn, dapxsumors, dapxsumpw, dasumpw, dnanasumors, dnansumkbn2, dnansumpw, sapxsumkbn } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-wasm@esm/index.mjs';
+import { dapx, dapxsum, dapxsumkbn, dapxsumors, dapxsumpw, dasumpw, dnanasumors, dnansumkbn2, dnansumpw, sapxsumkbn } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-wasm@v0.1.0-esm/index.mjs';
 ```
 
 #### ns
@@ -98,7 +98,7 @@ var o = ns;
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-wasm@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-wasm@v0.1.0-esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
