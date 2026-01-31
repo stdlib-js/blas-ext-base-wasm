@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-11-21)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
@@ -37,6 +37,7 @@
 
 ### Bug Fixes
 
+-   [`dbc772f`](https://github.com/stdlib-js/stdlib/commit/dbc772fe67de423b24bebecdd657d09683f793cf) - use correct return type in Routine interface and fix descriptions
 -   [`3e3a5dd`](https://github.com/stdlib-js/stdlib/commit/3e3a5dd6065bf138f094c6f00aa828a15f00eebe) - ensure correct `this` context when creating a new Module instance
 -   [`442e10e`](https://github.com/stdlib-js/stdlib/commit/442e10eb7ed4edb530525cdbf377064260e12229) - ensure correct `this` context when creating a new Module instance
 -   [`8ec483b`](https://github.com/stdlib-js/stdlib/commit/8ec483b22a52beb45e08a5ab4c09bbe94c8c6448) - ensure correct `this` context when creating a new Module instance
@@ -71,6 +72,9 @@ A total of 6 issues were closed in this release:
 
 <details>
 
+-   [`d57ae08`](https://github.com/stdlib-js/stdlib/commit/d57ae087e42493094552ca3ea2a5e6d71bf09c49) - **docs:** fix return annotations and remove extra return variable _(by Philipp Burckhardt)_
+-   [`dbc772f`](https://github.com/stdlib-js/stdlib/commit/dbc772fe67de423b24bebecdd657d09683f793cf) - **fix:** use correct return type in Routine interface and fix descriptions _(by Philipp Burckhardt)_
+-   [`f7509ad`](https://github.com/stdlib-js/stdlib/commit/f7509adb98a5c726e927fe5c0e16a8c4bb949457) - **docs:** fix examples _(by Athan Reines)_
 -   [`e62f498`](https://github.com/stdlib-js/stdlib/commit/e62f498b2bad582476862a5872115ae22152fe88) - **docs:** fix example code and return annotations in TSDoc examples _(by Philipp Burckhardt)_
 -   [`3e3a5dd`](https://github.com/stdlib-js/stdlib/commit/3e3a5dd6065bf138f094c6f00aa828a15f00eebe) - **fix:** ensure correct `this` context when creating a new Module instance _(by Philipp Burckhardt)_
 -   [`442e10e`](https://github.com/stdlib-js/stdlib/commit/442e10eb7ed4edb530525cdbf377064260e12229) - **fix:** ensure correct `this` context when creating a new Module instance _(by Philipp Burckhardt)_
