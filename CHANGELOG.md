@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-27)
+## Unreleased (2026-11-13)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`65754cb`](https://github.com/stdlib-js/stdlib/commit/65754cb6879fb53a5ce7c2f3f203dc492ded8ae1) - **docs:** remove unnecessary require statements [(#14856)](https://github.com/stdlib-js/stdlib/pull/14856) _(by Philipp Burckhardt)_
 -   [`10ee0a5`](https://github.com/stdlib-js/stdlib/commit/10ee0a56ed60ae3d051ff0426b8e203a29c44cdc) - **chore:** clean-up [(#13754)](https://github.com/stdlib-js/stdlib/pull/13754) _(by Philipp Burckhardt)_
 -   [`8fcdf1e`](https://github.com/stdlib-js/stdlib/commit/8fcdf1e5a7c139534a0dbf9932efc5d3ff31870b) - **build:** add scripts to insert license headers [(#13483)](https://github.com/stdlib-js/stdlib/pull/13483) _(by Prashant Kumar Yadav)_
